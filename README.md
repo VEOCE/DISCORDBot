@@ -23,6 +23,10 @@ pip install requests colorama
 cd DISCORDBot
 ```
 ```
+nano token.txt
+```
+
+```
 python main.py
 ```
 Created : https://t.me/FreeDropLink
